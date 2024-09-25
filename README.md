@@ -9,7 +9,7 @@ about me:
 * bilingue: `français, english`
 * non coding stuff: `hockey, golf`
 * interests: `embedded systems, robotics, ai/ml, cybersecurity`
-* see more: [`portfolio/blog link`](https://sebblanchet.github.io)
+* see more: [`portfolio/blog link`](https://sebblanchet.com)
 
 #### **stack**
 
