@@ -1,27 +1,29 @@
-### **hi/salut 👋**
+### **Hi/Salut 👋**
 ___
 
-#### **facts**
+#### **Facts**
 
-about me:
+About me:
 
-* overview: `hands-on, generalist`
-* bilingue: `français, english`
-* non coding stuff: `hockey, golf`
-* interests: `embedded systems, robotics, ai/ml, cybersecurity`
-* see more: [`portfolio/blog link`](https://sebblanchet.com)
+* Overview: `hands-on, generalist`
+* Bilingue: `français, english`
+* Non coding stuff: `hockey, golf`
+* Interests: `embedded systems, robotics, ai/ml, cybersecurity`
+* See more: [`portfolio/blog link`](https://sebblanchet.com)
 
-#### **stack**
+#### **Stack**
 
-right now:
+Right now:
 
 <p align="left">
-    <img title="rust" src="img/rust.jpg" height="40" />
+    <img title="rust" src="img/rust.svg" height="40" />
     &nbsp;&nbsp;
-    <img title="yew" src="img/yew.svg" height="40" />
+    <img title="yew" src="img/python.svg" height="40" />
     &nbsp;&nbsp;
-    <img title="neovim" src="img/neovim.svg" height="40" />
+    <img title="neovim" src="img/nvim.svg" height="40" />
     &nbsp;&nbsp;
     <img title="linux" src="img/linux.svg" height="40"/>
+    &nbsp;&nbsp;
+    <img title="linux" src="img/gpg.svg" height="40"/>
 </p>
 
